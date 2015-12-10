@@ -1,0 +1,4 @@
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinter\bin\Debug\NumberPrinter.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinter\bin\Debug\NumberPrinter.pdb
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinter\obj\Debug\NumberPrinter.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinter\obj\Debug\NumberPrinter.pdb

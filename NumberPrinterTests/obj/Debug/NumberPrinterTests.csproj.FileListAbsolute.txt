@@ -1,0 +1,9 @@
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\NumberPrinterTests.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\NumberPrinterTests.pdb
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\NumberPrinter.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\nunit.framework.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\NumberPrinter.pdb
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\bin\Debug\nunit.framework.xml
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\obj\Debug\NumberPrinterTests.csprojResolveAssemblyReference.cache
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\obj\Debug\NumberPrinterTests.dll
+c:\users\ajm\documents\visual studio 2013\Projects\NumberPrinter\NumberPrinterTests\obj\Debug\NumberPrinterTests.pdb
